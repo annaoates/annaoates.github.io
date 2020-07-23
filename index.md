@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Anna Oates
+#### Library + Information Sciences
 
-You can use the [editor on GitHub](https://github.com/annaoates/annaoates.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am the Scholarly Communication and Discovery Services Librarian at the Federal Reserve Bank of St. Louis and a recent graduate of the Illinois School of Information Sciences at the University of Illinois at Urbana-Champaign.
 
-### Markdown
+linked data | digital preservation | digital repositories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Education
 
-# Header 1
-## Header 2
-### Header 3
+#### University of Illinois at Urbana-Champaign
+MSLIS</br>
+2016-2018
 
-- Bulleted
-- List
+**Master's Thesis** | Navigating the PDF/A standard: a case study of theses in the University of Oxford's institutional repository, [http://hdl.handle.net/2142/100913](http://hdl.handle.net/2142/100913)
 
-1. Numbered
-2. List
+[Jane B. and Robert B. Downs Professional Promise Award, awarded May 2018](https://ischool.illinois.edu/articles/2018/05/student-award-recipients-announced-convocation)
+Looney Scholarship, awarded April 2016
 
-**Bold** and _Italic_ and `Code` text
+##### Relevant coursework
+* AV Preservation
+* Bibliographic Metadata
+* Data Cleaning in Theory & Practice
+* Digital Libraries
+* Digital Preservation
+* Foundations of Data Curation
+* Information Modeling
+* Instruction & Assistance Systems
+* Metadata in Theory & Practice
 
-[Link](url) and ![Image](src)
-```
+#### Western Carolina University
+BA, English with Concentration in Literature, summa cum laude
+Minors | Dance + Creative Writing</br>
+2013-2016
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Bachelor's Thesis** | H.D.’s Trilogy and the Language Within: Palimpsest of Figures and Factors
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annaoates/annaoates.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dean’s Outstanding Scholar Award, awarded March 2016
+1st Runner up, Annual Fall Senior Seminar Conference, awarded November 2015</br>
+Mabel Crum Merit Scholarship, awarded April 2015
