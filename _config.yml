@@ -13,8 +13,8 @@ email: "annaireneo@gmail.com"
 description: ""
 >- # this means to ignore newlines until "baseurl:"
 author: Anna Oates
+baseurl: ""
 url: "https://annaoates.github.io"
-#baseurl: "/" 
 #google_analytics: UA-111111111-1
 twitter:
   username: @annaoates
