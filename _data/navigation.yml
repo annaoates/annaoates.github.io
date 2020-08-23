@@ -3,12 +3,12 @@
 - name: About
   link: /about
 - name: Bio
-	link: /about/bio
+  link: /about/bio
 - name: CV
-	link: /about/cv
+  link: /about/cv
 - name: projects
-	link: /projects
+  link: /projects
 - name: gallery
-	link: /gallery
+  link: /gallery
 - name: contact
-	link: /contact
+  link: /contact
