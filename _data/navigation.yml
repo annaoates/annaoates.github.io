@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about
+- name: Bio
+	link: /about/bio
+- name: CV
+	link: /about/cv
+- name: projects
+	link: /projects
+- name: gallery
+	link: /gallery
+- name: contact
+	link: /contact
