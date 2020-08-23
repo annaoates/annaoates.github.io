@@ -4,8 +4,8 @@
 #- jekyll-sitemap
 #- jekyll-seo-tag
 
-sass:
-  sass_dir: assets/css
+#sass:
+#  sass_dir: assets/css
 
 title: "Anna Oates"
 tagline: ""
